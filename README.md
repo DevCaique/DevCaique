@@ -1,6 +1,6 @@
 ### Olá! Me chamo Caique Morales 👋
 
-[![Blog](https://img.shields.io/website?label=caiquemorales.netlify.app&style=for-the-badge&url=https://caiquemorales.netlify.app)](https://caiquemorales.netlify.app)
+[![Portfólio](https://img.shields.io/website?label=caiquemorales.netlify.app&style=for-the-badge&url=https://caiquemorales.netlify.app)](https://caiquemorales.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caique_brad/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-morales-silva-07633a210/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511961930889)
